@@ -1,3 +1,3 @@
-# Bark-Deployment-Central
+# Bark-UI-Deployment-Central
 
-Deployment model for Bark
+Deployment model UI for Bark
